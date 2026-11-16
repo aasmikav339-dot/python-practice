@@ -1,4 +1,4 @@
-#shopping bill calculator
+#shopping bill calculator 
 product_name_1= "Canvas"
 price_1=500
 quantity_1=2
